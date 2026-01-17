@@ -1,0 +1,20 @@
+site_name: Au fil du code
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+    primary: deep purple
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.sections
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.tabbed:
+      alternate_style: true
