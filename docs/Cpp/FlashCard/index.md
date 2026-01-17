@@ -63,4 +63,4 @@ Utilisez ces cartes pour tester vos connaissances. Cliquez sur chaque question p
 !!! tip "Conseil de révision"
     Révisez 
     
-    ![jad](https://avatars.githubusercontent.com/u/9075017?v=4){ width="150" } 
+    ![jad](../../assets/jad.png){ width="150" } 

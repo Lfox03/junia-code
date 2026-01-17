@@ -1,10 +1,16 @@
-# Exercices Pratiques 
+---
+title: débutants
+description: Les bases en C++
+---
+
+# Exercices débutants
 
 Mettez en pratique vos connaissances sur les variables, les conditions, les boucles et les fonctions.
 
 ---
 
 ## Exercice 1 : Le Calculateur d'Aire
+
 **Objectif :** Manipuler les variables et les entrées/sorties (`cin`/`cout`).
 
 Écrivez un programme qui demande à l'utilisateur la **largeur** et la **longueur** d'un rectangle (nombres à virgule), puis affiche l'aire.
@@ -31,6 +37,7 @@ Mettez en pratique vos connaissances sur les variables, les conditions, les bouc
 ---
 
 ## Exercice 2 : Pair ou Impair ?
+
 **Objectif :** Utiliser les structures conditionnelles (`if` / `else`) et l'opérateur modulo `%`.
 
 Demandez un nombre entier à l'utilisateur et affichez s'il est **Pair** ou **Impair**.
@@ -60,6 +67,7 @@ Demandez un nombre entier à l'utilisateur et affichez s'il est **Pair** ou **Im
 ---
 
 ## Exercice 3 : La Table de Multiplication
+
 **Objectif :** Utiliser une boucle `for`.
 
 Demandez un nombre à l'utilisateur (ex: 7) et affichez sa table de multiplication de 1 à 10.
@@ -85,6 +93,7 @@ Demandez un nombre à l'utilisateur (ex: 7) et affichez sa table de multiplicati
 ---
 
 ## Exercice 4 : Conversion de Température (Fonction)
+
 **Objectif :** Créer et appeler une fonction.
 
 Créez une fonction nommée `celsiusVersFahrenheit` qui prend un `double` (Celsius) en paramètre et retourne la conversion en Fahrenheit.
@@ -116,6 +125,7 @@ Dans le `main`, demandez une température à l'utilisateur et affichez le résul
 ---
 
 ## Exercice 5 : Le Juste Prix (Mini-projet)
+
 **Objectif :** Combiner boucles et conditions.
 
 Le programme choisit un nombre secret (disons 42). Tant que l'utilisateur n'a pas trouvé le nombre, le programme lui demande une proposition et lui répond "C'est plus !" ou "C'est moins !".

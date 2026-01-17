@@ -1,9 +1,9 @@
 ---
-title: Les bases en c++ | JuniaCode
-description: Page d'accueil de la partie cours de Cpp
+title: Les bases
+description: Les bases en C++
 ---
 
-# Premiers Pas en C++
+# Les bases en C++
 
 Bienvenue dans ce cours d'introduction au C++. Le C++ est un langage puissant, performant et largement utilisé dans l'industrie (jeux vidéo, systèmes embarqués, finance).
 
