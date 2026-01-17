@@ -1,4 +1,7 @@
-# Cours c++
+---
+title: Les bases en c++ | JuniaCode
+description: Page d'accueil de la partie cours de Cpp
+---
 
 # Premiers Pas en C++
 

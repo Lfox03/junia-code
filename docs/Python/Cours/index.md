@@ -1,3 +1,8 @@
+---
+title: Les bases en Python | JuniaCode
+description: Page d'accueil de la partie cours de CSS
+---
+
 # Apprendre Python : Les Bases
 
 Python est un langage de programmation polyvalent, lisible et très puissant. Il est utilisé aussi bien pour le web que pour l'intelligence artificielle.

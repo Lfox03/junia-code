@@ -1,3 +1,8 @@
+---
+title: Les bases en HTML | JuniaCode
+description: Page d'accueil de la partie cours de HTML
+---
+
 # Cours HTML
 
 Le **HTML** (HyperText Markup Language) est le langage de balisage standard pour créer des pages Web. Il décrit la structure d'une page Web de manière sémantique.

@@ -1,3 +1,8 @@
+---
+title: Les bases en JavaScript | JuniaCode
+description: Page d'accueil de la partie cours de CSS
+---
+
 # JavaScript : Le Langage du Web
 
 Le JavaScript (JS) est un langage de programmation de scripts principalement utilisé pour rendre les pages web interactives. Contrairement au HTML (structure) et au CSS (présentation), le JS gère le **comportement**.

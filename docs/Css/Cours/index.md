@@ -1,3 +1,8 @@
+---
+title: Les bases en CSS | JuniaCode
+description: Page d'accueil de la partie cours de CSS
+---
+
 # Apprendre le CSS
 
 Le **CSS** (Cascading Style Sheets) est le langage utilisé pour styliser et mettre en page les documents HTML. Il permet de transformer un document brut en une interface utilisateur attrayante.
@@ -91,6 +96,14 @@ Flexbox est un module de mise en page unidimensionnel qui permet de disposer les
 
 !!! warning "Éviter `!important`"
     L'utilisation de `!important` casse la cascade naturelle du CSS et rend le débogage très difficile. Utilisez plutôt la **spécificité des sélecteurs**.
+
+    ```css linenums="1" title="style.css" hl_lines="4"
+    h1 {
+      color: #2e7d32;
+      font-size: 24px;
+      text-align: center !important; 
+    }
+    ```
 
 ---
 
