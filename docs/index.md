@@ -37,25 +37,25 @@ description: l'accueil de JuniaCode
     
     Révisions
     
-    - [Flashcards C++](FlashCard/Cpp.md)
+    - [Flashcards C++](./Cpp/FlashCard/Cpp.md)
     
     - Auto-évaluation
     
-    - [Quiz C++](Quiz/cpp.md)
+    - [Quiz C++](./Cpp/Quiz/cpp.md)
 
     **Arduino**
     
     Cours
     
-    - [Arduino](Cpp/Cours/arduino.md)
+    - [Arduino](./Cpp/Cours/arduino.md)
     
     Révisions
     
-    - [Flashcards Arduino](FlashCard/Arduino.md)
+    - [Flashcards Arduino](./Cpp/FlashCard/Arduino.md)
     
     Auto-évaluation
     
-    - [Quiz Arduino](Quiz/Arduino_1.md)
+    - [Quiz Arduino](./Cpp/Quiz/Arduino_1.md)
 
 
 
